@@ -1,4 +1,4 @@
-### Hi there 👋 this profile is in progress.
+# Hardeek Sharma #BlackLivesMatter
 
 <!--
 **hardeeksharma/hardeeksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
