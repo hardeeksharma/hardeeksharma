@@ -1,3 +1,4 @@
+
 # #BlackLivesMatter
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
@@ -20,11 +21,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on my system design skills.
-- 🌱 I’m currently learning VueJs, Kubernetes, Kafka
-- 💬 Ask me about Spring boot, VueJs, Angular 7+, AWS Ec2, Docker.
-<!--
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my **system design skills**.
+- 🌱 I’m currently learning **VueJs 3**, **Docker**, **Kubernetes, Kafka**
+- 💬 Ask me about Spring boot, **VueJs, Angular 7+, AWS Ec2, Docker**.
+
+### Recent projects
+- **Notification delivery system** using Spring boot, Apache kafka, Vue Js, Heroku and Netlify (*Under development)*  [Link](https://github.com/hardeeksharma/Notification-delivery-system-design)
