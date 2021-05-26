@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hardeek Sharma, Full-stack developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>New Delhi, India</b>
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/-Medium-000?logo=medium&logoColor=white&style=flat-square"/>][medium]
+
 <h3>Things I do magic with...</h3>
 <p>
   
@@ -25,3 +29,9 @@
 ### Recent projects
 -  [**Covid vaccine telegram bot**](https://github.com/hardeeksharma/covid-vaccine-telegram-bot) using Spring boot, Telegram API
 - [**Notification delivery system**](https://github.com/hardeeksharma/Notification-delivery-system-design) using Spring boot, Apache kafka, Vue Js, Heroku and Netlify (*Under development)*
+
+
+[twitter]: https://twitter.com/kernalshell
+[youtube]: https://www.youtube.com/channel/UCwZEhwFVa6y5-6JaFSHIKVA
+[linkedin]: https://www.linkedin.com/in/hardeeksharma/
+[medium]: https://medium.com/@hardeek.sharma
