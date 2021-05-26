@@ -1,10 +1,9 @@
+ - List item
 
-# #BlackLivesMatter
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-
-<p>Welcome to my page! </br> I'm Hardeek Sharma, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>New Delhi, India</b>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Hardeek Sharma, Full-stack developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>New Delhi, India</b>
+<h3>Things I do magic with...</h3>
 <p>
   
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white" />
@@ -21,9 +20,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on my **system design skills**.
-- 🌱 I’m currently learning **VueJs 3**, **Docker**, **Kubernetes, Kafka**
-- 💬 Ask me about Spring boot, **VueJs, Angular 7+, AWS Ec2, Docker**.
+- 🔭  I’m currently working on my **system design skills**.
+- 🌱  I’m currently learning **VueJs 3**, **Docker**, **Kubernetes, Kafka**
+- 💬  Ask me about **Spring boot,VueJs, Angular 7+, AWS Ec2, Docker**.
 
 ### Recent projects
-- **Notification delivery system** using Spring boot, Apache kafka, Vue Js, Heroku and Netlify (*Under development)*  [Link](https://github.com/hardeeksharma/Notification-delivery-system-design)
+-  [**Covid vaccine telegram bot**](https://github.com/hardeeksharma/covid-vaccine-telegram-bot) using Spring boot, Telegram API
+- [**Notification delivery system**](https://github.com/hardeeksharma/Notification-delivery-system-design) using Spring boot, Apache kafka, Vue Js, Heroku and Netlify (*Under development)*
