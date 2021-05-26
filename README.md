@@ -1,5 +1,3 @@
- - List item
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Hardeek Sharma, Full-stack developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>New Delhi, India</b>
